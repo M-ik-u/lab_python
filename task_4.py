@@ -6,3 +6,4 @@ for denga in money:
     print(f"Нужно {sum//denga} бумажек по {denga}")
     sum %= denga
 
+
